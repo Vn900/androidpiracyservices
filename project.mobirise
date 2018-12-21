@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMGMserv - Creative Services",
-    "currentPage": "Creative Services.html",
+    "currentPage": "Quote-Request.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -91,7 +91,12 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-p"
+          "_anchor": "header3-p",
+          "_styles": {
+            "SMALL": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
@@ -736,7 +741,12 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-s"
+          "_anchor": "header3-s",
+          "_styles": {
+            "SMALL": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
@@ -928,13 +938,18 @@
             "showMeta": true
           },
           "title": "Quote Request",
-          "meta": "Please fill in the quote request form below with the details of your request. Our quotations are free, regardless if you decide to purchase any of our services. We are quite happy to tell you how we can improve your game and/or app, your website, or future website. We will get in touch with you with a free quotation, and then follow up to discuss your request details.\n<br>\n<br> \n<br>\n<br>Thank you for choosing our services!",
+          "meta": "Please fill in the quote request form below with the details of your request. Our quotations are free, regardless if you decide to purchase any of our services. We are quite happy to tell you how we can improve your game and/or app, your website, or future website. We will get in touch with you with a free quotation, and then follow up to discuss your request details.\n<br>\n<br>Thank you for choosing our services!",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-11"
+          "_anchor": "header3-11",
+          "_styles": {
+            "SMALL": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {

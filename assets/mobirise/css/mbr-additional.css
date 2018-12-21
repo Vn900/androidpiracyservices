@@ -18,6 +18,9 @@
 #dropdown-menu-2btn-i .navbar-toggler {
   color: #000000;
 }
+#header3-p SMALL {
+  font-size: 14px;
+}
 #msg-box3-o .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -122,6 +125,9 @@
 #dropdown-menu-2btn-r .navbar-toggler {
   color: #000000;
 }
+#header3-s SMALL {
+  font-size: 14px;
+}
 #dropdown-menu-2btn-x .hide-buttons [data-button] {
   display: none !important;
 }
@@ -141,4 +147,7 @@
 }
 #dropdown-menu-2btn-x .navbar-toggler {
   color: #000000;
+}
+#header3-11 SMALL {
+  font-size: 14px;
 }
