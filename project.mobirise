@@ -1,0 +1,1013 @@
+{
+  "settings": {
+    "name": "AMGMserv - Creative Services",
+    "currentPage": "Creative Services.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#1f92b4",
+        "#05566e"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.10",
+    "siteFonts": [],
+    "uniqCompNum": 38,
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+  },
+  "pages": {
+    "Features.html": {
+      "settings": {
+        "title": "ANDROID APPS & GAMES SECURITY",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Features.html\" aria-expanded=\"false\">APPS &amp; GAMES SECURITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">WEBSITE SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TRANSLATION SERVICES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fav-77x78.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMGMserv<br></a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-i"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Android Apps &amp; Games Security",
+          "meta": "The avalanche of APPS creates a tidal wave of opportunities for pirates and hackers around the world – and particularly in the BRIC countries of Brazil, Russia, India and China – to hack your APP. In the early days of APP piracy, the damage was pretty much limited to popular games and APPS – and the outcome was mainly lost revenues, when users figured out ways to download paid APPS for free. <br><br>Today, we’re entering a new phase of hacking and cracking, targeting F2P APPS – mostly games. APP piracy nowadays is characterized by sophisticated schemes that go far beyond illegal downloads:\n<br>   - IP theft: Simply put, someone is distributing your APP for free and leaving you out in the cold.\n<br>   - SDK removal: Your APP or game is not only compromised; critical data related to advertising, analytics and payments has been erased completely from your APP or game leaving you without the means or data to monetize your game or feedback to optimize it.\n<br>   - Malware infusion: In this scenario your APP’s SDK has been replaced by malicious SDKs designed to ruin user experience and destroy your    business model - or worse.\n<br>You can fall victim of such activities when the pirates rob you of IAP revenues, strip out advertising and analytics SDKs, muddy your data and degrade the user experience for legitimate players. You are driving your APP business blind - and that’s never a good strategy.\n<br>We use professional tools to test your APP, or game, and advise you on how to fight back, securing your rights and hard work, and, inclusively, how to cash in and have a revenue even if your APP or game was pirated!\n<br><br>AMGMserv also monitors you APP or game on the world wide web, looking for pirated APKs, copies, and on instructions, from the developers, owning the copyrighted content, we can ask for the immediate removal of such content, or links pointing to pirated content.<br>Together with our APP and game piracy testing service, and our monitoring service, we assure you peace of mind; you will know how your APP or game performs againstimpersonating attacks, replay attacks, validation bypass, trainers &amp; mods.<br>\n<br>You’ll probably never beat piracy, but with AMGMserv piracy testing and monitoring services, together, you’ll have a better chance to fight back!<br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p"
+        },
+        {
+          "_params": {
+            "firstType": "bg-success",
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d8f1d5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<br>Android Privacy Test Basic<br><br>",
+          "title2": "<br>Android Privacy Test Advanced<br><br>",
+          "title3": "<br>Android Piracy Monitoring<br><br>",
+          "title4": "<br>Android Piracy Ultimate<br><br>",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "49,",
+          "price2": "99,",
+          "price3": "219,00",
+          "price4": "269,",
+          "period1": "00",
+          "period2": "00",
+          "period3": "per month",
+          "period4": "00",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Impersonating Attacks\n</li><li class=\"list-group-item\"><span style=\"font-size: 1rem;\">Replay Attacks &nbsp;</span></li><li class=\"list-group-item\">Validation Bypass</li><li class=\"list-group-item\"><span style=\"font-size: 1rem;\">Time Travelling</span></li><li class=\"list-group-item\">Google AdMob Attack</li><li class=\"list-group-item\"><b><br></b></li><li class=\"list-group-item\"><b><br></b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Includes Piracy Test Basic\n<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">Trainers &amp; Mods Attack\n<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">Google Validation Attack\n<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">In-app Purchases Attack</li><li class=\"list-group-item\"><b><br></b></li><li class=\"list-group-item\"><b><br></b></li><li class=\"list-group-item\"><b><br></b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Valid for 30 days\n<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">Piracy Web Search<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">APK Manipulation\n<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">SDK Manipulation\n</li><li class=\"list-group-item\">APK Piracy</li><li class=\"list-group-item\"><span style=\"font-size: 1rem;\">Parallel Android Stores&nbsp;</span></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\"><br></b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">All the Features Included\r<span style=\"font-size: 1rem;\">&nbsp;</span></li><li class=\"list-group-item\">\r<span style=\"font-size: 1rem;\">Piracy Test Advanced &nbsp;</span></li><li class=\"list-group-item\">\r<span style=\"font-size: 1rem;\">Piracy Monitoring</span></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\"><br></b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\"><br></b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\"><br></b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\"><br></b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"Quote-Request.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Quote-Request.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Quote-Request.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Quote-Request.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-m"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FREE SCORING TEST",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>How protected is your Android game, or app, against piracy and manipulation? <span style=\"font-size: 1.25rem;\">We will test your game, or app, for security issues, and score it from 1 to 5,</span><i style=\"font-size: 1.25rem;\"> </i><span style=\"font-size: 1.25rem;\">and email you the results.&nbsp;</span></p><p>\n</p><p><span style=\"font-size: 1.25rem;\">Take our FREE SCORING TEST and find out.</span><br><span style=\"font-size: 1.25rem;\"></span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Quote-Request.html\" data-toolbar=\"-mbrBtnMove\">TRY IT</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "WHY AMGMserv\n<br>___________________________\n<br><br>Features\n<br>___________________________\n<br><br>Pricing\n<br>___________________________\n<br><br>Resources\n<br><br>\n<br>COMPANY\n<br>___________________________\n<br><br>About Us\n<br>___________________________\n<br><br>Contact Us\n<br>___________________________\n<br><br>Privacy Policy\n<br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@amgmserv.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 AMGMserv.com&nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q"
+        }
+      ]
+    },
+    "Creative Services.html": {
+      "settings": {
+        "main": true,
+        "title": "AMGMserv",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Features.html\" aria-expanded=\"false\">APPS &amp; GAMES SECURITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">WEBSITE SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TRANSLATION SERVICES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fav-77x78.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMGMserv<br></a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-c"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "right"
+            },
+            ".lead P": {
+              "text-align": "right",
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#d8d4d1",
+            "overlayOpacity": "0.4"
+          },
+          "title": "AMGMserv",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Creative services studio</b></p><p><b>Android app &amp; games security &nbsp;</b>&nbsp;</p><p><b>Website design &amp; upgrading </b></p><p><b>Professional translation service<br></b></p><p><b>TRUSTED BY DEVELOPERS AND THE INDUSTRY EXPERTS!</b></p><p><br></p><p>“Instead of worrying about what you cannot control, shift your energy to what you can create.” </p><p>Roy T. Bennett, The Light in the Heart</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-g"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "color": "#fff8e0",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f8f8f6"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#f8f8f6"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x983.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#05566e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#5bc0de",
+            "overlayOpacity": "1"
+          },
+          "title": "Android\n<div>Apps &amp; Games Security</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Rooting an Android device nowadays is as easy as 1-2-3. </p><p>With over 500.000.000 devices rooted worldwide, and counting, and with some freely available software, game/APP piracy and manipulation has become a child's play. </p><p>We use professional tools to test your APP, or game, and advise you on how to fight back, securing your rights and hard work, and, inclusively, how to cash in and have a revenue even if your APP or game was pirated!<span style=\"font-size: 1.25rem;\">&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"Features.html#contacts3-j\" data-toolbar=\"-mbrBtnMove\">EXPLORE FEATURES</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-9"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-section-title B": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1459.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#bfc7d6",
+            "overlayOpacity": "1"
+          },
+          "title": "<b>Website Design &amp; Upgrading</b><br><b><br></b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Websites are the most important way to inform potential customers about products and services, to represent companies or to distribute goods online. </b></p><p><b>For private users, a website gives them the chance to actively take part in public affairs.  \n<span style=\"font-size: 1.25rem;\"></span></b></p><p><b>From single page websites, portfolio websites, landing pages, social, business, events, food, our designs are made to have a modern, clean look and to be mobile responsive.</b></p><p><b>They adapt to any screen size, allowing your customers to have the best online experience with your website</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-e"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "color": "#e6e0dc"
+            },
+            ".mbr-section-title B": {
+              "color": "#fbfbfb"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1459.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "1"
+          },
+          "title": "<b>Translation Services</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Want your APP or game in different languages and reach users and players all over the world? Need your blog post, or your business newsletter translated? Need your website to reach a wider audience? </p><p>We specialize in translation services with focus on the games and apps industry, websites and software.</p><p>The benefits of having a multi-language APP, game, website or software are reduced time to market reach a wider target market, achieve a better user experience, increased quality and accuracy, thus, customer satisfaction and ROI.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "5",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "What Our Fantastic Clients Say",
+          "items": [
+            {
+              "authorName": "Kate W.",
+              "authorBio": "London, UK",
+              "text": "<i>\"Thansk to AMGMserv webdesign and the translation service, it was possible for a small start-up business like ours to have all done and running in no-time!\"</i>"
+            },
+            {
+              "authorName": "Pedro S.",
+              "authorBio": "Lisbon, Portugal",
+              "text": "<i>\"Thanks for making my website so simple to manage and maintain. Very modern, very clean and super fast. Love the design!\"</i>"
+            },
+            {
+              "authorName": "Josh U.",
+              "authorBio": "Los Angels, USA",
+              "text": "<i>\"These guys know their stuff! I was shocked to learn that my Android game was so easy to be manipulated by cheaters! - Repacked!\"</i><div><i>\n</i></div><div><br></div>"
+            },
+            {
+              "authorName": "Helen J.",
+              "authorBio": "New York, USA",
+              "text": "<i>\"With this level of service, I'm sure I'll be a long and happy customer with AMGMserv.\"\n</i><div><i>\n</i></div><div><br></div>"
+            },
+            {
+              "authorName": "Luciano Z.",
+              "authorBio": "Milan, Italy",
+              "text": "<i>\"Great translation service! Very quick and with excellent quality. Just in time for our website update\"</i>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-h",
+          "testimonial": [
+            {
+              "authorName": "Kate W.",
+              "authorBio": "London, UK",
+              "text": "<i>\"Thansk to AMGMserv webdesign and the translation service, it was possible for a small start-up business like ours to have all done and running in no-time!\"</i>"
+            },
+            {
+              "authorName": "Pedro S.",
+              "authorBio": "Lisbon, Portugal",
+              "text": "<i>\"Thanks for making my website so simple to manage and maintain. Very modern, very clean and super fast. Love the design!\"</i>"
+            },
+            {
+              "authorName": "Josh U.",
+              "authorBio": "Los Angels, USA",
+              "text": "<i>\"These guys know their stuff! I was shocked to learn that my Android game was so easy to be manipulated by cheaters! - Repacked!\"</i><div><i>\n</i></div><div><br></div>"
+            },
+            {
+              "authorName": "Helen J.",
+              "authorBio": "New York, USA",
+              "text": "<i>\"With this level of service, I'm sure I'll be a long and happy customer with AMGMserv.\"\n</i><div><i>\n</i></div><div><br></div>"
+            },
+            {
+              "authorName": "Luciano Z.",
+              "authorBio": "Milan, Italy",
+              "text": "<i>\"Great translation service! Very quick and with excellent quality. Just in time for our website update\"</i>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "WHY AMGMserv\n<br>___________________________\n<br><br>Features\n<br>___________________________\n<br><br>Pricing\n<br>___________________________\n<br><br>Resources\n<br><br>\n<br>COMPANY\n<br>___________________________\n<br><br>About Us\n<br>___________________________\n<br><br>Contact Us\n<br>___________________________\n<br><br>Privacy Policy\n<br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@amgmserv.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 AMGMserv.com&nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "PRICING",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Features.html\" aria-expanded=\"false\">APPS &amp; GAMES SECURITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">WEBSITE SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TRANSLATION SERVICES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fav-77x78.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMGMserv<br></a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-r"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Pricing",
+          "meta": "AMGMserv is a group of professionals with strong, passionate and dedicated thoughts, dreams and determination.\n<br>Our mission is to offer a whole suite of services and solutions for the digital world. We use professional tools to test your APP, or game, and advise you on how to fight back, securing your rights and hard work, and, inclusively, how to cash in and have a revenue even if your APP or game was pirated!\n<br><br>We offer solutions for developers and the opportunity for you to take your business to a new height with something unique, allowing it to grow nationally and globally, with the rare combination of expert strategies, ultimate solutions, creative designs and development solutions. \n<br><br>We design all types of beautiful, fluid websites: Single page websites, portfolio websites, landing pages, social, business, events, food... and many more.<br><br>We are more than the traditional translation service. We specialize in translation services for the games and apps industry, websites and software. All our translations are made by native people with a background and education in linguistics, for that extra \"speak like a local\" effect.<br><br>Our team members are highly skilled professionals and experts on their field. Our translators are real humans (yes, no robots yet...), native people with a background and education in linguistics, for that extra \"speak like a local\" effect. Our QA and piracy testing/monitoring are also real humans (yep, no robots here as well...), gamers and testers with a great passion for the Android world, keen on playing, trying, bug finding, testing and reporting.\n<br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s"
+        },
+        {
+          "_params": {
+            "firstType": "bg-danger",
+            "secondType": "bg-success",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-primary",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<br>Website design &amp; upgrading<br><br>",
+          "title2": "<br>Translation services<br><br>",
+          "title3": "<br>Android Piracy Monitoring<br><br>",
+          "title4": "<br>Android Piracy Ultimate<br><br>",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "349,",
+          "price2": "0,05",
+          "price3": "219,00",
+          "price4": "269,",
+          "period1": "00",
+          "period2": "per word",
+          "period3": "per month",
+          "period4": "00",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Website Design\n<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">Website Upgrading<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">Mobile Friendly Design</li><li class=\"list-group-item\">Full responsive designs</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Android Games\n<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">Android Apps\n<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">Websites</li><li class=\"list-group-item\">Blogs &amp; newsletters</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Valid for 30 days\n<span style=\"font-size: 1rem;\"></span></li><li class=\"list-group-item\">Piracy Web Search</li><li class=\"list-group-item\">APK Piracy</li><li class=\"list-group-item\"><span style=\"font-size: 1rem;\">Parallel Android Stores&nbsp;</span></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 1rem;\">Solutions to fight back piracy</span></li><li class=\"list-group-item\"><span style=\"font-size: 1rem;\">Piracy Test Advanced &nbsp;</span><br></li><li class=\"list-group-item\">\n<span style=\"font-size: 1rem;\">Piracy Monitoring</span></li></ul><p><br></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "WHY AMGMserv\n<br>___________________________\n<br><br>Features\n<br>___________________________\n<br><br>Pricing\n<br>___________________________\n<br><br>Resources\n<br><br>\n<br>COMPANY\n<br>___________________________\n<br><br>About Us\n<br>___________________________\n<br><br>Contact Us\n<br>___________________________\n<br><br>Privacy Policy\n<br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "stuuuped@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 AMGMserv.com&nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-w"
+        }
+      ]
+    },
+    "Quote-Request.html": {
+      "settings": {
+        "title": "QUOTE REQUEST",
+        "order": 3,
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Features.html\" aria-expanded=\"false\">APPS &amp; GAMES SECURITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">WEBSITE SOLUTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TRANSLATION SERVICES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fav-77x78.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMGMserv<br></a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-x"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Quote Request",
+          "meta": "Please fill in the quote request form below with the details of your request. Our quotations are free, regardless if you decide to purchase any of our services. We are quite happy to tell you how we can improve your game and/or app, your website, or future website. We will get in touch with you with a free quotation, and then follow up to discuss your request details.\n<br>\n<br> \n<br>\n<br>Thank you for choosing our services!",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "AMGMserv Quote Request Form",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
+          "form": {
+            "action": "stuuuped@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-10"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 AMGMserv.com&nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-z"
+        }
+      ]
+    }
+  }
+}
