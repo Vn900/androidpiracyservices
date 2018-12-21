@@ -414,7 +414,7 @@
           "title": "Android\n<div>Apps &amp; Games Security</div>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Rooting an Android device nowadays is as easy as 1-2-3. </p><p>With over 500.000.000 devices rooted worldwide, and counting, and with some freely available software, game/APP piracy and manipulation has become a child's play. </p><p>We use professional tools to test your APP, or game, and advise you on how to fight back, securing your rights and hard work, and, inclusively, how to cash in and have a revenue even if your APP or game was pirated!<span style=\"font-size: 1.25rem;\">&nbsp;</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"Features.html#contacts3-j\" data-toolbar=\"-mbrBtnMove\">EXPLORE FEATURES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"Features.html\" data-toolbar=\"-mbrBtnMove\">EXPLORE FEATURES</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -461,7 +461,7 @@
           "title": "<b>Website Design &amp; Upgrading</b><br><b><br></b>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><b>Websites are the most important way to inform potential customers about products and services, to represent companies or to distribute goods online. </b></p><p><b>For private users, a website gives them the chance to actively take part in public affairs.  \n<span style=\"font-size: 1.25rem;\"></span></b></p><p><b>From single page websites, portfolio websites, landing pages, social, business, events, food, our designs are made to have a modern, clean look and to be mobile responsive.</b></p><p><b>They adapt to any screen size, allowing your customers to have the best online experience with your website</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -481,7 +481,7 @@
               "color": "#e6e0dc"
             },
             ".mbr-section-title B": {
-              "color": "#fbfbfb"
+              "color": "#c8eeec"
             }
           },
           "_params": {
@@ -507,7 +507,7 @@
           "title": "<b>Translation Services</b>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Want your APP or game in different languages and reach users and players all over the world? Need your blog post, or your business newsletter translated? Need your website to reach a wider audience? </p><p>We specialize in translation services with focus on the games and apps industry, websites and software.</p><p>The benefits of having a multi-language APP, game, website or software are reduced time to market reach a wider target market, achieve a better user experience, increased quality and accuracy, thus, customer satisfaction and ROI.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Quote-Request.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
