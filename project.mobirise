@@ -488,7 +488,10 @@
               "color": "#e6e0dc"
             },
             ".mbr-section-title B": {
-              "color": "#e7d9d9"
+              "color": "#fff8e0"
+            },
+            ".mbr-section-title": {
+              "color": "#fff8e0"
             }
           },
           "_params": {
@@ -511,10 +514,10 @@
             "overlayColor": "#222",
             "overlayOpacity": "1"
           },
-          "title": "<b>Translation Services</b>",
+          "title": "Translation Services",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Want your APP or game in different languages and reach users and players all over the world? Need your blog post, or your business newsletter translated? Need your website to reach a wider audience? </p><p>We specialize in translation services with focus on the games and apps industry, websites and software.</p><p>The benefits of having a multi-language APP, game, website or software are reduced time to market reach a wider target market, achieve a better user experience, increased quality and accuracy, thus, customer satisfaction and ROI.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Quote-Request.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"Quote-Request.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"

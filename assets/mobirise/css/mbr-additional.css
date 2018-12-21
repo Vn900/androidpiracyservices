@@ -103,7 +103,10 @@
   color: #e6e0dc;
 }
 #msg-box3-f .mbr-section-title B {
-  color: #e7d9d9;
+  color: #fff8e0;
+}
+#msg-box3-f .mbr-section-title {
+  color: #fff8e0;
 }
 #dropdown-menu-2btn-r .hide-buttons [data-button] {
   display: none !important;
