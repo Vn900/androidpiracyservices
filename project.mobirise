@@ -1,14 +1,16 @@
 {
   "settings": {
     "name": "AMGMserv - Creative Services",
-    "currentPage": "Quote-Request.html",
+    "currentPage": "Creative Services.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
         "#1f92b4",
-        "#05566e"
+        "#05566e",
+        "#41abca",
+        "#e7d9d9"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -407,7 +409,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x983.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#05566e",
+            "bgColor": "#41abca",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -486,7 +488,7 @@
               "color": "#e6e0dc"
             },
             ".mbr-section-title B": {
-              "color": "#c8eeec"
+              "color": "#e7d9d9"
             }
           },
           "_params": {
