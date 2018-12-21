@@ -966,11 +966,11 @@
             "overlayOpacity": 0.5
           },
           "title": "AMGMserv Quote Request Form",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
           "form": {
-            "action": "stuuuped@gmail.com",
+            "action": "info@amgmserv.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out the form!"
             },
             "fields": {
               "name": {
